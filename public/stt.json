@@ -1,0 +1,21 @@
+{
+  "providers": {
+    "Deepgram": {
+      "models": {
+        "Nova-2": {
+          "languages": ["English-US", "Hindi", "Spanish"]
+        }
+      }
+    },
+    "Whisper": {
+      "models": {
+        "Base": {
+          "languages": ["English-US", "French"]
+        },
+        "Large": {
+          "languages": ["English-UK", "German"]
+        }
+      }
+    }
+  }
+}

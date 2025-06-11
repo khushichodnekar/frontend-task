@@ -1,0 +1,32 @@
+[
+  {
+    "provider": "Whisper",
+    "model": "Base",
+    "language": "French",
+    "timestamp": "2025-06-10T07:45:46.348Z"
+  },
+  {
+    "provider": "Whisper",
+    "model": "Large",
+    "language": "German",
+    "timestamp": "2025-06-10T11:03:50.343Z"
+  },
+  {
+    "provider": "Deepgram",
+    "model": "Nova-2",
+    "language": "Spanish",
+    "timestamp": "2025-06-10T11:53:36.088Z"
+  },
+  {
+    "provider": "Whisper",
+    "model": "Base",
+    "language": "English-US",
+    "timestamp": "2025-06-10T12:37:47.265Z"
+  },
+  {
+    "provider": "Whisper",
+    "model": "Large",
+    "language": "English-UK",
+    "timestamp": "2025-06-11T07:08:47.655Z"
+  }
+]
