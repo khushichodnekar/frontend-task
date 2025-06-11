@@ -8,7 +8,7 @@ This is a frontend dashboard built with **Next.js**, **Tailwind CSS**, and **Typ
 - Responsive UI with Tailwind CSS
 - Theme toggle (light/dark mode)
 - Basic admin dashboard setup
-- 
+  
 ##  Dark Mode Status
  **Note:** Dark mode is **partially implemented**. Currently, it only applies to the **right side scrollbar** of the application.  
 Full dark mode support (background, text, components) is still a work in progress.
